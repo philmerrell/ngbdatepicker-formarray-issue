@@ -11,7 +11,7 @@ export const sessionDate = {
           firstEnrollmentDate: '2018-03-26',
           startDate: '2018-08-20',
           endDate: '2018-12-07',
-          description: 'Need to update boomi',
+          description: 'Term description goes here',
           lOAStartDate: '',
           lOAEndDate: ''
       },
@@ -20,7 +20,7 @@ export const sessionDate = {
           firstEnrollmentDate: '2018-03-26',
           startDate: '2018-08-20',
           endDate: '2018-10-26',
-          description: 'Need to update boomi',
+          description: 'Term description goes here',
           lOAStartDate: '',
           lOAEndDate: ''
       },
@@ -29,7 +29,7 @@ export const sessionDate = {
           firstEnrollmentDate: '2018-03-26',
           startDate: '2018-09-24',
           endDate: '2018-12-07',
-          description: 'Need to update boomi',
+          description: 'Term description goes here',
           lOAStartDate: '',
           lOAEndDate: ''
       },
@@ -38,7 +38,7 @@ export const sessionDate = {
           firstEnrollmentDate: '2018-03-26',
           startDate: '2018-08-20',
           endDate: '2018-09-21',
-          description: 'Need to update boomi',
+          description: 'Term description goes here',
           lOAStartDate: '',
           lOAEndDate: ''
       },
@@ -47,7 +47,7 @@ export const sessionDate = {
           firstEnrollmentDate: '2018-03-26',
           startDate: '2018-09-24',
           endDate: '2018-10-26',
-          description: 'Need to update boomi',
+          description: 'Term description goes here',
           lOAStartDate: '',
           lOAEndDate: ''
       },
@@ -56,7 +56,7 @@ export const sessionDate = {
           firstEnrollmentDate: '2018-03-26',
           startDate: '2018-10-29',
           endDate: '2018-12-07',
-          description: 'Need to update boomi',
+          description: 'Term description goes here',
           lOAStartDate: '',
           lOAEndDate: ''
       },
@@ -65,7 +65,7 @@ export const sessionDate = {
           firstEnrollmentDate: '2018-03-26',
           startDate: '2018-08-20',
           endDate: '2018-10-05',
-          description: 'Need to update boomi',
+          description: 'Term description goes here',
           lOAStartDate: '',
           lOAEndDate: ''
       },
@@ -74,7 +74,7 @@ export const sessionDate = {
           firstEnrollmentDate: '2018-03-26',
           startDate: '2018-10-15',
           endDate: '2018-12-07',
-          description: 'Need to update boomi',
+          description: 'Term description goes here',
           lOAStartDate: '',
           lOAEndDate: ''
       },
@@ -83,7 +83,7 @@ export const sessionDate = {
           firstEnrollmentDate: '2018-03-26',
           startDate: '2018-08-20',
           endDate: '2018-12-14',
-          description: 'Need to update boomi',
+          description: 'Term description goes here',
           lOAStartDate: '',
           lOAEndDate: ''
       },
@@ -92,7 +92,7 @@ export const sessionDate = {
           firstEnrollmentDate: '2018-03-26',
           startDate: '2018-08-21',
           endDate: '2019-01-26',
-          description: 'Need to update boomi',
+          description: 'Term description goes here',
           lOAStartDate: '',
           lOAEndDate: ''
       },
@@ -101,7 +101,7 @@ export const sessionDate = {
           firstEnrollmentDate: '2018-03-26',
           startDate: '2018-08-21',
           endDate: '2019-06-08',
-          description: 'Need to update boomi',
+          description: 'Term description goes here',
           lOAStartDate: '',
           lOAEndDate: ''
       },
@@ -110,7 +110,7 @@ export const sessionDate = {
           firstEnrollmentDate: '2018-03-26',
           startDate: '2018-08-20',
           endDate: '2018-12-14',
-          description: 'Need to update boomi',
+          description: 'Term description goes here',
           lOAStartDate: '',
           lOAEndDate: ''
       },
@@ -119,7 +119,7 @@ export const sessionDate = {
           firstEnrollmentDate: '2018-03-26',
           startDate: '2018-08-20',
           endDate: '2018-12-14',
-          description: 'Need to update boomi',
+          description: 'Term description goes here',
           lOAStartDate: '',
           lOAEndDate: ''
       }
